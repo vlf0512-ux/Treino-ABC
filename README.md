@@ -164,5 +164,4 @@
     window.open("duvidas.html", "_blank");
   };
 </script>
-</body>
-</html>
+
