@@ -85,7 +85,7 @@
 </head>
 
 <body>
-  <h1>TREINO SEMANAL <br>(Isa)</h1>
+  <h1>TREINO SEMANAL <h1>
 
   <label for="dia">Selecione o treino:</label>
   <select id="dia" onchange="carregarTreino()">
