@@ -2,17 +2,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="google" content="notranslate">
-
   <link rel="stylesheet" href="style.css">
   <title>Meu Treino</title>
 
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
   
 </head>
 
 <body>
-  <h1>TREINO SEMANAL <h1>
+  <h1>TREINO SEMANAL <br>(Isa)</h1>
 
   <label for="dia">Selecione o treino:</label>
   <select id="dia" onchange="carregarTreino()">
@@ -91,4 +90,5 @@
     window.open("duvidas.html", "_blank");
   };
 </script>
-
+</body>
+</html>
